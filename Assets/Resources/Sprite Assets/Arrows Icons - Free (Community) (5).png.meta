@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: dd2bbbb523d10488080ea33b320033a3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2068a924439e445c9a91fc6faae57434
+      internalID: -745371687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 9006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6ce1f99efbd426392ab2302c000c5d
+      internalID: -1974225872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 9006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c1aed3f57674038859dd829dede297
+      internalID: -972471085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 9006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41085ef2adc44277b3b9219f80333fa
+      internalID: -1969257070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50766325e725c4de3b47d3a1a0d3e6a2
+      internalID: 1115512714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 8006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432e7c12c1448431e920141a60f4e3ec
+      internalID: 694394632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_6
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 8006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bae899af69b4c9ea047f3a746763ba
+      internalID: -369782420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_7
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 8006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a6a56e3976a407d91870ea60fdc49d
+      internalID: -1242379665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2f65c8db8774d8899ca57aa94fa4e7
+      internalID: 277209378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_9
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 7006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ba83fb7dc124f9294ddae49afa41e1
+      internalID: 1536316875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 7006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f4748073ef54c148f3e0be89346fe9
+      internalID: 3958717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_11
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 7006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e51a7dfe5c24f94a557961555eb8c0
+      internalID: 1543396471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abe20fbf49b948f8a0daaea3dc5ce9b
+      internalID: 769587858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_13
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cf016b15c734f6daf7a1f400baadea
+      internalID: -2071437089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e03073972cc44a0dad41c8af7f8c2f3
+      internalID: 1966249095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_15
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8dc15c19c7948e090f571ffbb90e1b
+      internalID: -213244587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4672ad0a41347e0ad096a8d3c0b2b6
+      internalID: -382540753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67385a68d815c4a10a785dd794be120e
+      internalID: 1196384066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_18
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69621e974df141b09cd47a2b515f5d4
+      internalID: 1245762677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_19
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 5006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c508ad971d1464854ac349ff1fed3a1b
+      internalID: 1630471976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd9708a5247842b68e13e10ad52f31e
+      internalID: -818756002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_21
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5622a086bbf436fb7ea5716b57c970
+      internalID: -1713300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_22
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74465b758635a4b3aa281847a6492603
+      internalID: -494049997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_23
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 4006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce9f618adc5f4cce813b6d72029e88d
+      internalID: -1815616190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f31601adc72446aea2a1a06eaa0f07b
+      internalID: 839714725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f60a947878d4fcf98347b12ce1a132
+      internalID: -73620656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_26
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb2a19fe471a4a17b3d12c08e9cc656
+      internalID: 245932533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_27
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9968c368446942b88563f3e850f6172
+      internalID: -1126146263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2152a5b0d92294b57a12e4172f60eb2f
+      internalID: 875794894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ada74ba3903416cb9783b1f5c647cb
+      internalID: -375675612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_30
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9366b65764d8840dabc5c55d3191dc9d
+      internalID: -581741494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_31
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd8530e2d2b9427c8b3ef18c423de1f
+      internalID: 542357113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b0be9f4d7ea48a6af932f84ddfe941
+      internalID: 557431449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_33
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bbe9191e2914e0da0d15ab32412417
+      internalID: -825288774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7154cea8b75a439796bd373c3fb48a7
+      internalID: 654375648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_35
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1006
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453b8815dc1834711b046a61d1ef83a6
+      internalID: 1664906729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eaca76dffd204bc4814bcb4ab71f917
+      internalID: 1879855830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_37
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 6
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5311e710b5bb4d3a8788102b572bde7
+      internalID: 227703999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_38
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2945a019db34754baeb6c5e997ac6f
+      internalID: -1885690336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrows Icons - Free (Community) (5)_39
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 6
+        width: 1000
+        height: 1000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdee31b6beaa4990b981af1c38be405
+      internalID: 1736149906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 32927ce0951ab4ea983b79f38bc32e4b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arrows Icons - Free (Community) (5)_0: -745371687
+      Arrows Icons - Free (Community) (5)_1: -1974225872
+      Arrows Icons - Free (Community) (5)_10: 3958717
+      Arrows Icons - Free (Community) (5)_11: 1543396471
+      Arrows Icons - Free (Community) (5)_12: 769587858
+      Arrows Icons - Free (Community) (5)_13: -2071437089
+      Arrows Icons - Free (Community) (5)_14: 1966249095
+      Arrows Icons - Free (Community) (5)_15: -213244587
+      Arrows Icons - Free (Community) (5)_16: -382540753
+      Arrows Icons - Free (Community) (5)_17: 1196384066
+      Arrows Icons - Free (Community) (5)_18: 1245762677
+      Arrows Icons - Free (Community) (5)_19: 1630471976
+      Arrows Icons - Free (Community) (5)_2: -972471085
+      Arrows Icons - Free (Community) (5)_20: -818756002
+      Arrows Icons - Free (Community) (5)_21: -1713300370
+      Arrows Icons - Free (Community) (5)_22: -494049997
+      Arrows Icons - Free (Community) (5)_23: -1815616190
+      Arrows Icons - Free (Community) (5)_24: 839714725
+      Arrows Icons - Free (Community) (5)_25: -73620656
+      Arrows Icons - Free (Community) (5)_26: 245932533
+      Arrows Icons - Free (Community) (5)_27: -1126146263
+      Arrows Icons - Free (Community) (5)_28: 875794894
+      Arrows Icons - Free (Community) (5)_29: -375675612
+      Arrows Icons - Free (Community) (5)_3: -1969257070
+      Arrows Icons - Free (Community) (5)_30: -581741494
+      Arrows Icons - Free (Community) (5)_31: 542357113
+      Arrows Icons - Free (Community) (5)_32: 557431449
+      Arrows Icons - Free (Community) (5)_33: -825288774
+      Arrows Icons - Free (Community) (5)_34: 654375648
+      Arrows Icons - Free (Community) (5)_35: 1664906729
+      Arrows Icons - Free (Community) (5)_36: 1879855830
+      Arrows Icons - Free (Community) (5)_37: 227703999
+      Arrows Icons - Free (Community) (5)_38: -1885690336
+      Arrows Icons - Free (Community) (5)_39: 1736149906
+      Arrows Icons - Free (Community) (5)_4: 1115512714
+      Arrows Icons - Free (Community) (5)_5: 694394632
+      Arrows Icons - Free (Community) (5)_6: -369782420
+      Arrows Icons - Free (Community) (5)_7: -1242379665
+      Arrows Icons - Free (Community) (5)_8: 277209378
+      Arrows Icons - Free (Community) (5)_9: 1536316875
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
