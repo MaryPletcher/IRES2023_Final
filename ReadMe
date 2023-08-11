@@ -1,0 +1,8 @@
+For some reason, there is sometimes an error that causes the project to be opened in safe mode
+To fix this, go to package manager -> XR Interaction Toolkit -> reimport starter assets 
+
+there is probably a better fix but I don't know it!
+
+Also here are some helpful links used during this project:
+https://developer-global.pico-interactive.com/document/unity/release-notes-2023/ 
+https://www.youtube.com/watch?v=jOn0YWoNFVY  
